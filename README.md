@@ -4,11 +4,9 @@ Eu sou Jose Henrique
  
 Desenvolvedor Python e Entusiasta DevOps 
 
-Atualmente DevOps Junior II 
+Atualmente trabalho como SRE 
 
-Cursando Engenharia Eletronica na UTFPR.
-
-Meu foco atualmente esta em DevOps/S.R.E
+Minha paixao é ler log.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josehenrique-dev&show_icons=true&theme=tokyonight"/>
