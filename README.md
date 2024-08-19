@@ -1,10 +1,8 @@
-## 👩 Hi!
+## Olá!
 
-Eu sou Jose Henrique
- 
-Desenvolvedor Python e Entusiasta DevOps 
+Sou Desenvolvedor Python e Entusiasta DevOps.
 
-Atualmente trabalho como SRE 
+Atualmente trabalho como SRE.
 
 Minha paixao é ler log.
 
