@@ -7,7 +7,6 @@ Atualmente trabalho como SRE.
 Minha paixao é ler log.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josehenrique-dev&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenrique-dev&layout=compact&theme=tokyonight"/>
 </div>
 
