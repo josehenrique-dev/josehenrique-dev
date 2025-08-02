@@ -1,6 +1,6 @@
 ## Olá!
 
-Sou Desenvolvedor Python e Entusiasta DevOps.
+Sou Platform Engineer, desenvolvedor e entusiasta DevOps.
 
 Atualmente trabalho como SRE.
 
