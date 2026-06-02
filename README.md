@@ -6,14 +6,14 @@ I’ve been passionate about programming and technology since I was a kid. I’v
 
 <br>
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josehenrique-dev&theme=dracula" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josehenrique-dev&theme=dracula" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josehenrique-dev&theme=dracula&utcOffset=-3" width="32%"/>
+<img src="profile-summary-card-output/2077/1-repos-per-language.svg" width="32%"/>
+<img src="profile-summary-card-output/2077/2-most-commit-language.svg" width="32%"/>
+<img src="profile-summary-card-output/2077/4-productive-time.svg" width="32%"/>
 
 <br><br>
 
 ### ❤️ Let's get connected:
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0tahenrique)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0tahenrique)
 
 </div>
