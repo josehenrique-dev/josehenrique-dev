@@ -12,6 +12,8 @@ I’ve been passionate about programming and technology since I was a kid. I’v
 
 <br><br>
 
+![](https://media.tenor.com/IMOe__jwRBAAAAAC/linux-linus.gif)
+
 ### ❤️ Let's get connected:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0tahenrique)
